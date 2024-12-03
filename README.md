@@ -8,7 +8,7 @@
 
 ## 🛠️ Özellikler
 
-- 🔹 **Özellik 1**: Sadece HTML5, CSS3, SCSS, BOOSTRAP ile yazıldı.
+- 🔹 **Özellik 1**: HTML5, CSS3, SCSS BOOSTRAP ile yazıldı.
 - 🔹 **Özellik 2**: Görseller mevcut.  
 - 🔹 **Özellik 3**: Responsive tasarımdır.  
 
