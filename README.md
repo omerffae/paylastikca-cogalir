@@ -1,6 +1,6 @@
 # 📌 Paylastıkça Güzelleşir
 
-**Paylastıkça Güzelleşir** projesi, Tamamen özelleştirilebilir bir tasarım olup [Öğrenim] amaçlı oluşturulmuş açık kaynaklı bir yazılımdır. 🚀  
+**Paylastıkça Güzelleşir** projesi, Tamamen özelleştirilebilir bir tasarım olup amaçlı oluşturulmuş açık kaynaklı bir yazılımdır. 🚀  
 
 ![Proje Görseli](./images/proje-gif.gif)  
 
